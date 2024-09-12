@@ -8,13 +8,13 @@ Munich, Germany | Ready to Relocate
 
 ## About Me
 
-Hardworking and motivated Junior Frontend Developer with strong expertise in HTML, CSS, JavaScript, React.js, and Redux. Dedicated to continuous improvement, studying and practicing web development daily to master the latest technologies and best practices. Eager to bring technical skills, attention to detail, and a passion for creating user-friendly applications. Ready to contribute and grow in a fast-paced environment.
+Hardworking and motivated Junior Frontend Developer with strong expertise in HTML, CSS, JavaScript, TypeScript, React.js, and Redux. Dedicated to continuous improvement, studying and practicing web development daily to master the latest technologies and best practices. Eager to bring technical skills, attention to detail, and a passion for creating user-friendly applications. Ready to contribute and grow in a fast-paced environment.
 
 ---
 
 ## Skills
 
-- **Languages**: HTML, CSS, JavaScript
+- **Languages**: HTML, CSS, JavaScript, TypeScript
 - **Frameworks/Libraries**: React.js, Redux
   
 ---
