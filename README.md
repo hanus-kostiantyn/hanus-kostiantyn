@@ -1,16 +1,68 @@
-## Hi there 👋
+# Kostiantyn Hanus
 
-<!--
-**hanus-kostiantyn/hanus-kostiantyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Frontend Developer**  
+Munich, Germany | Ready to Relocate  
+[LinkedIn](https://www.linkedin.com/in/hanuskostiantyn/) | hanus.kostiantyn@gmail.com | +38 095 437 91 41
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Hardworking and motivated Junior Frontend Developer with strong expertise in HTML, CSS, JavaScript, React.js, and Redux. Dedicated to continuous improvement, studying and practicing web development daily to master the latest technologies and best practices. Eager to bring technical skills, attention to detail, and a passion for creating user-friendly applications. Ready to contribute and grow in a fast-paced environment.
+
+---
+
+## Skills
+
+- **Languages**: HTML, CSS, JavaScript
+- **Frameworks/Libraries**: React.js, Redux
+  
+---
+
+## Education
+
+**State University of Technology and Infrastructure**  
+*2022 - 2025 (in progress)*  
+Bachelor's Degree in Computer Software Engineering
+
+**Kherson State Maritime Academy**  
+*2022 - 2025 (in progress)*  
+Bachelor's Degree in Navigation and Ship Handling at Sea
+
+**Maritime College Of Kherson State Maritime Academy**  
+*2018 - 2022*  
+Junior Specialist Degree in Navigation and Ship Handling at Sea
+
+---
+
+## Certifications & Courses
+
+- **Web Development** – Udemy  
+- **JavaScript with React** – Udemy  
+- **Practical JavaScript (Advanced)** – Udemy
+
+---
+
+## Work Experience
+
+**Second Officer / Third Officer / Deck Cadet**  
+*Various Container Ships (2021-2024)*  
+- Supervised navigation and ship handling operations, ensuring safety and precision.  
+- Collaborated with multinational teams to solve complex challenges under pressure.  
+- Managed detailed documentation and coordinated tasks, demonstrating strong attention to detail and problem-solving skills.
+
+---
+
+## Languages
+
+- English: Upper Intermediate  
+- Ukrainian: Native  
+- Russian: Native  
+
+---
+
+## Contact
+
+- **Email**: hanus.kostiantyn@gmail.com  
+- **Phone**: +38 095 437 91 41  
+- **LinkedIn**: [Kostiantyn Hanus](https://www.linkedin.com/in/hanuskostiantyn/)
