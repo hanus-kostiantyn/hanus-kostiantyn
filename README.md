@@ -40,6 +40,7 @@ Junior Specialist Degree in Navigation and Ship Handling at Sea
 - **Web Development** – Udemy  
 - **JavaScript with React** – Udemy  
 - **Practical JavaScript (Advanced)** – Udemy
+- **TypeScript** - Udemy
 
 ---
 
