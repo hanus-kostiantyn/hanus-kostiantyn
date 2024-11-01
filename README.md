@@ -47,8 +47,8 @@ Junior Specialist Degree in Navigation and Ship Handling at Sea
 
 ## Work Experience
 
-**Full Stack Web Developer**
-*SoftServe (Apprenticeship)*
+**Full Stack Web Developer**  
+*SoftServe (Apprenticeship) (OCT 2024 - NOV 2024)*  
 - Developing a web application using React.js, TypeScript, Material UI, Redux Toolkit on the client and Node.js, Express.js with MongoDB on the server side.
 - Code development, refactoring and bug fixing.
 - Unit testing.
