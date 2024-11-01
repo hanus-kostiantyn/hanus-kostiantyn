@@ -1,21 +1,21 @@
 # Kostiantyn Hanus
 
 **Junior Frontend Developer**  
-Munich, Germany | Ready to Relocate  
+Chisinau, Moldova | Ready to Relocate  
 [LinkedIn](https://www.linkedin.com/in/hanuskostiantyn/) | hanus.kostiantyn@gmail.com | +38 095 437 91 41
 
 ---
 
 ## About Me
 
-Hardworking and motivated Junior Frontend Developer with strong expertise in HTML, CSS, JavaScript, TypeScript, React.js, and Redux. Dedicated to continuous improvement, studying and practicing web development daily to master the latest technologies and best practices. Eager to bring technical skills, attention to detail, and a passion for creating user-friendly applications. Ready to contribute and grow in a fast-paced environment.
+Hardworking and motivated Junior Frontend Developer with strong expertise in HTML, CSS, JavaScript, Node.js, TypeScript, React, and Redux. Dedicated to continuous improvement, studying and practicing web development daily to master the latest technologies and best practices. Eager to bring technical skills, attention to detail, and a passion for creating user-friendly applications. Ready to contribute and grow in a fast-paced environment.
 
 ---
 
 ## Skills
 
-- **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries**: React.js, Redux
+- **Languages**: HTML, CSS, JavaScript, Node.js, TypeScript
+- **Frameworks/Libraries**: React, Redux
   
 ---
 
@@ -41,10 +41,18 @@ Junior Specialist Degree in Navigation and Ship Handling at Sea
 - **JavaScript with React** – Udemy  
 - **Practical JavaScript (Advanced)** – Udemy
 - **TypeScript** - Udemy
+- **Node.js** - Udemy
 
 ---
 
 ## Work Experience
+
+**Full Stack Web Developer**
+*SoftServe (Apprenticeship)*
+- Developing a web application using React.js, TypeScript, Material UI, Redux Toolkit on the client and Node.js, Express.js with MongoDB on the server side.
+- Code development, refactoring and bug fixing.
+- Unit testing.
+
 
 **Second Officer / Third Officer / Deck Cadet**  
 *Various Container Ships (2021-2024)*  
