@@ -1,6 +1,6 @@
 # Kostiantyn Hanus
 
-**Junior Frontend Developer**  
+**Full stack / Frontend Developer**  
 Chisinau, Moldova | Ready to Relocate  
 [LinkedIn](https://www.linkedin.com/in/hanuskostiantyn/) | hanus.kostiantyn@gmail.com | +38 095 437 91 41
 
@@ -8,15 +8,16 @@ Chisinau, Moldova | Ready to Relocate
 
 ## About Me
 
-Hardworking and motivated Junior Frontend Developer with strong expertise in HTML, CSS, JavaScript, Node.js, TypeScript, React, and Redux. Dedicated to continuous improvement, studying and practicing web development daily to master the latest technologies and best practices. Eager to bring technical skills, attention to detail, and a passion for creating user-friendly applications. Ready to contribute and grow in a fast-paced environment.
+Hardworking and motivated Full stack / Frontend Developer with a solid foundation in HTML, CSS (SCSS/SASS/MUI/Tailwind CSS), JS, React, Next.js, TypeScript, Redux, Node.js, and Unit Testing (Jest, React Testing Library). I am committed to continuous growth, dedicating time daily to mastering the latest web technologies and industry best practices. Known for my attention to detail and problem-solving skills, I create responsive, user-friendly applications that prioritize performance and usability. Ready to excel and make an impact in a dynamic, fast-paced environment, with full flexibility to relocate as needed.
 
 ---
 
 ## Skills
 
-- **Languages**: HTML, CSS, JavaScript, Node.js, TypeScript
-- **Frameworks/Libraries**: React, Redux
-  
+- **Languages**: HTML, CSS (SCSS/SASS), JavaScript, TypeScript
+- **Frameworks/Libraries**: React, Next.js, Redux, Node.js, MUI, Tailwind CSS
+- **Tools & Testing**: Git, GitHub, CI/CD, Jest, React Testing Library, Vite, Webpack
+- **APIs**: REST API
 ---
 
 ## Education
